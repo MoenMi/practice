@@ -1,2 +1,2 @@
-# operator-overloading-practice
-This repository is practice for operator overloading in C++
+# practice
+This repository is practice of various concepts learned in class
